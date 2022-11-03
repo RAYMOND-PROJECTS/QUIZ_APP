@@ -1,2 +1,3 @@
 # QUIZ_APP
-Login class,Rule class,Quiz class,score class
+Modules
+Login class,Rule class,Quiz class,score class.using swing and awt.
